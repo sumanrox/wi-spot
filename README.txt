@@ -1,4 +1,4 @@
-For the lazy people who does'nt want to write commands,
+For the lazy people who doesn't want to write commands,
 A simple Batch Script to enable hotspot on windows 7-10, 
 currently not being actively developed as Windows 10 >= Version 10.0.16299 Build 16299 
 supports built in hotspot feature and provides internet sharing connection.
